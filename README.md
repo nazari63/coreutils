@@ -320,3 +320,4 @@ To contribute to uutils, please see [CONTRIBUTING](CONTRIBUTING.md).
 uutils is licensed under the MIT License - see the `LICENSE` file for details
 
 GNU Coreutils is licensed under the GPL 3.0 or later.
+This project is a demonstration of blockchain technology and smart contract integration.
